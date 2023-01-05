@@ -45,14 +45,9 @@
 
 
 ## 🔗 Contact
-<a href="https://linkedin.com/in/jaclina - iana bulat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaclina - iana bulat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaclina-iana-bulat-38515418b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaclina - iana bulat" height="30" width="40" /></a>
 <a href="https://fb.com/bloodline.404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bloodline.404" height="30" width="40" /></a>
 
- ## Blogs
-<p align="left">
-<a href="https://dev.to/bloodev404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bloodev404" height="30" width="40" /></a>
-<a href="https://medium.com/@bulatianajaclina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bulatianajaclina" height="30" width="40" /></a>
-</p>
 
 ## Statistics
 
