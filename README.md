@@ -3,7 +3,7 @@
 
 ## Who am I?
 <br />
-👩🏻‍🚀 I'm a human. For now, I am in 2nd year of Computer Science at BBU Cluj-Napoca.
+👩🏻‍🚀 I'm a human. A computer pianist. For now, I am in 2nd year of Computer Science at BBU Cluj-Napoca.
 <br />
 🎡 I find myself as a creative person. I am passionate about technology, logic, mental challenges, psychology, space, astronomy, quantum physics and medicine. Also, circles and spheres.
 <br />
