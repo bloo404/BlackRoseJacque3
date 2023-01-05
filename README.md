@@ -58,6 +58,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bloo404&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="bloo404" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bloo404&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="bloo404" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bloo404&theme=dark" alt="bloo404" /></p>
