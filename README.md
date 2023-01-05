@@ -1,5 +1,5 @@
 
-# 🐞⚡ bloo404 | Bulat Jaclina-Iana
+# 🐞 bloo404 | Bulat Jaclina-Iana 🐞
 
 ## Who am I?
 <br />
@@ -12,7 +12,7 @@
 👩🏻‍💻👨🏿‍💻 I wish you a bugful code because that's where learning starts!
 
 
-## Skills
+## ⚡ Skills
 <p align="left"> 
 
 ### Programming
