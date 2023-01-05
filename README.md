@@ -1,5 +1,5 @@
 
-# bloo404 | Bulat Jaclina-Iana
+# 🐞⚡ bloo404 | Bulat Jaclina-Iana
 
 ## Who am I?
 <br />
