@@ -2,9 +2,14 @@
 # bloo404 | Bulat Jaclina-Iana
 
 ## Who am I?
-I'm human. For now, I am in 2nd year of Computer Science at BBU Cluj-Napoca.
+#
+I'm a human. For now, I am in 2nd year of Computer Science at BBU Cluj-Napoca.
+#
 I am passionate about technology, logic, mental challenges, psychology, space, astronomy, quantum physics and medicine.
+#
 Yes, I do like art as well, painting and music to be more specific.
+#
+I wish you a bugful code because that's where learning starts!
 
 
 ## Skills
