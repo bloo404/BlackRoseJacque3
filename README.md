@@ -5,7 +5,7 @@
 <br />
 👩🏻‍🚀 I'm a human. A computer pianist. For now, I am in 2nd year of Computer Science at BBU Cluj-Napoca.
 <br />
-🎡 I find myself as a creative person. I am passionate about technology, logic, mental challenges, psychology, space, astronomy, quantum physics and medicine. Also, circles and spheres.
+🎡 I find myself as a creative person. I am passionate about technology, logic, mental challenges, psychology, space, astronomy and medicine. Also, circles and spheres.
 <br />
 🖼️ ♮ Yes, I do like art as well, painting and music to be more specific.
 <br />
