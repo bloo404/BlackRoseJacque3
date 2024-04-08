@@ -1,12 +1,9 @@
 ## bloo404 | Jaclina-Iana Bulat
 
-## Who am I?
-
 Computer pianist <br/>
 Data, science and people driven
 
-## Studies:
-
+### Studies
 Undergraduate Student @ Computer Science, BBU Cluj-Napoca <br/>
 Ex-student @ Tiberiu Popoviciu Informatics High School, Cluj-Napoca
 
