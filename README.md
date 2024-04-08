@@ -15,15 +15,19 @@ Ex-student @ Tiberiu Popoviciu Informatics High School, Cluj-Napoca
 ## Skills
 <p align="left"> 
 
-| Programming       | AI & ML          | Frontend                            | Mobile           | Data storage    | DevOps        | Game Engines | Environments      | Other software                    | Soft skills |
-|-------------------|------------------|-------------------------------------|------------------|-----------------|---------------|--------------|--------------------|-----------------------------------|-------------|
-| Python, C, C++,  | TensorFlow,      | Adobe Illustrator, Photoshop, Krita | Android Studio,  | MySQL, SSMS,   | Bash, Docker | Unity        | Anaconda, Jupyter | Octave, Matplotlib, Firebase, Git, Linux, Postman | Agile       |
-| Java, Prolog,    | YOLO, OpenCV,    | Qt, AdobeXD, Figma                  | Flutter, Kotlin  | DeltaLake       |               |              | Databricks         |                                   |             |
-| Lisp, Assembly   | Numpy, Pandas,   |                                     |                  |                 |               |              |                    |                                   |             |
-| 80x86            | Spark, Pillow,   |                                     |                  |                 |               |              |                    |                                   |             |
-|                  | PyTorch,         |                                     |                  |                 |               |              |                    |                                   |             |
-|                  | MatplotLib,      |                                     |                  |                 |               |              |                    |                                   |             |
-|                  | Seaborn          |                                     |                  |                 |               |              |                    |                                   |             |
+| AI & ML          | Programming      | Data storage     | DevOps           | Environments     | Frontend         | Mobile           | Game Engines     | Other software   | Soft skills      |
+|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+| MatplotLib       | Assembly 80x86   | DeltaLake        | Bash             | Anaconda         | Adobe Illustrator| Android studio   | Unity            | Firebase         | Agile            |
+| Numpy            | C                | MySQL            | Docker           | Databricks       | AdobeXD          | Flutter          |                  | Git              |                  |
+| OpenCV           | C#               | SSMS             |                  | Jupyter          | Figma            | Kotlin           |                  | Linux            |                  |
+| Pandas           | C++              |                  |                  |                  | Krita            |                  |                  | Postman          |                  |
+| Pillow           | Java             |                  |                  |                  | Photoshop        |                  |                  |                  |                  |
+| PyTorch          | Lisp             |                  |                  |                  | Qt               |                  |                  |                  |                  |
+| Seaborn          | Prolog           |                  |                  |                  |                  |                  |                  |                  |                  |
+| Spark            | Python           |                  |                  |                  |                  |                  |                  |                  |                  |
+| TensorFlow       |                  |                  |                  |                  |                  |                  |                  |                  |                  |
+| YOLO             |                  |                  |                  |                  |                  |                  |                  |                  |                  |
+
 
 <br />
 I wish you a bugful code because that's where learning starts!
