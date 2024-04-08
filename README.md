@@ -15,18 +15,18 @@ Ex-student @ Tiberiu Popoviciu Informatics High School, Cluj-Napoca
 ## Skills
 <p align="left"> 
 
-| Programming | AI & ML       | Frontend          | Mobile          | Data storage | DevOps | Game Engines | Environments | Other software | Soft skills |
-|-------------|---------------|-------------------|-----------------|--------------|--------|--------------|---------------|----------------|-------------|
-| Assembly 80x86 | MatplotLib | Adobe Illustrator | Android Studio | DeltaLake    | Agile  | Unity        | Anaconda      | Firebase       | Agile       |
-| C           | Numpy         | AdobeXD           | Flutter         | MySQL        | Bash   |  | Databricks    | Git            |  |
-| C++         | OpenCV        | Figma             | Kotlin          | Postman      | Docker |  | Jupyter       | Linux          |  |
-| C#          | Pandas        | Krita             |  | SSMS          |  |  |  | Octave         |  |
-| Java        | Pillow        | Photoshop         |  |  |  |  |  | Seaborn        |  |
-| Lisp        | PyTorch       | Qt                |  |  |  |  |  |  |  |
-| Prolog      | Spark         |  |  |  |  |  |  |  |  |
-| Python      | TensorFlow    |  |  |  |  |  |  |  |  |
-|             | YOLO          |  |  |  |  |  |  |  |  |
-
+| AI & ML       | Programming | Data storage | Frontend          | Others          | DevOps | Game Engines | Environments | Soft skills |
+|---------------|-------------|--------------|-------------------|-----------------|--------|--------------|---------------|-------------|
+| TensorFlow    | Assembly 80x86 | DeltaLake | Adobe Illustrator | Anaconda        | Bash   | Unity        | Anaconda      | Agile       |
+| YOLO          | C           | MySQL        | AdobeXD           | Git             | Docker |  | Databricks    |  |
+| OpenCV        | C++         | SSMS         | Figma             | Linux           |  |  | Jupyter       |  |
+| Numpy         | C#          |  | Krita             | Octave          |  |  |  |  |
+| PyTorch       | Java        |  | Photoshop         | Postman         |  |  |  |  |
+| Spark         | Lisp        |  | Qt                | Seaborn         |  |  |  |  |
+| Pandas        | Prolog      |  |  |  |  |  |  |  |
+| MatplotLib    | Python      |  |  |  |  |  |  |  |
+| Seaborn       |  |  |  |  |  |  |  |  |
+| Pillow        |  |  |  |  |  |  |  |  |
 
 <br />
 I wish you a bugful code because that's where learning starts!
