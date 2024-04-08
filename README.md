@@ -3,16 +3,12 @@
 Computer pianist <br/>
 Data, science and people driven
 
-### Studies
-Undergraduate Student @ Computer Science, BBU Cluj-Napoca <br/>
-Ex-student @ Tiberiu Popoviciu Informatics High School, Cluj-Napoca
+### About me
+- Currently an undergraduate student @ BBU Cluj-Napoca, Computer Science department
+- Interested in Data (Big, Engineering and Science) and Deep Learning
+- Hobbies: physics, photography, languages, humanities, gaming, memes, movies 
 
-## 🔗 Contact
-
-<a href="https://www.linkedin.com/in/jaclina-iana-bulat-38515418b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaclina - iana bulat" height="30" width="40" /></a>
-<a href="https://fb.com/bloodline.404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bloodline.404" height="30" width="40" /></a>
-
-## Technologies
+## Technologies and tools
 
 <p align="left">
 
@@ -29,5 +25,13 @@ Ex-student @ Tiberiu Popoviciu Informatics High School, Cluj-Napoca
 | TensorFlow  |                 |                  |              |                   |                | Docker      |             |
 | YOLO        |                 |                  |              |                   |                |             |             |
 
-<br />
-I wish you a bugful code because that's where learning starts!
+<hr>
+<p align="center">
+   <i>The amazing thing is that chaotic systems don't always stay chaotic. Sometimes they spontaneously reorganize themselves into an orderly structure.</i>
+   <br>
+   <i> The repetitions were never quite exact. There was pattern, with disturbances. An orderly disorder. </i>
+<br>
+
+## 🔗 Contact
+
+<p align="center"> <a href="https://www.linkedin.com/in/jaclina-iana-bulat-38515418b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> </p>
