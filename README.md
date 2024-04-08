@@ -15,18 +15,15 @@ Ex-student @ Tiberiu Popoviciu Informatics High School, Cluj-Napoca
 ## Skills
 <p align="left"> 
 
-| AI & ML       | Programming | Data storage | Frontend          | Others          | DevOps | Game Engines | Environments | Soft skills |
-|---------------|-------------|--------------|-------------------|-----------------|--------|--------------|---------------|-------------|
-| TensorFlow    | Assembly 80x86 | DeltaLake | Adobe Illustrator | Anaconda        | Bash   | Unity        | Anaconda      | Agile       |
-| YOLO          | C           | MySQL        | AdobeXD           | Git             | Docker |  | Databricks    |  |
-| OpenCV        | C++         | SSMS         | Figma             | Linux           |  |  | Jupyter       |  |
-| Numpy         | C#          |  | Krita             | Octave          |  |  |  |  |
-| PyTorch       | Java        |  | Photoshop         | Postman         |  |  |  |  |
-| Spark         | Lisp        |  | Qt                | Seaborn         |  |  |  |  |
-| Pandas        | Prolog      |  |  |  |  |  |  |  |
-| MatplotLib    | Python      |  |  |  |  |  |  |  |
-| Seaborn       |  |  |  |  |  |  |  |  |
-| Pillow        |  |  |  |  |  |  |  |  |
+| Programming       | AI & ML          | Frontend                            | Mobile           | Data storage    | DevOps        | Game Engines | Environments      | Other software                    | Soft skills |
+|-------------------|------------------|-------------------------------------|------------------|-----------------|---------------|--------------|--------------------|-----------------------------------|-------------|
+| Python, C, C++,  | TensorFlow,      | Adobe Illustrator, Photoshop, Krita | Android Studio,  | MySQL, SSMS,   | Bash, Docker | Unity        | Anaconda, Jupyter | Octave, Matplotlib, Firebase, Git, Linux, Postman | Agile       |
+| Java, Prolog,    | YOLO, OpenCV,    | Qt, AdobeXD, Figma                  | Flutter, Kotlin  | DeltaLake       |               |              | Databricks         |                                   |             |
+| Lisp, Assembly   | Numpy, Pandas,   |                                     |                  |                 |               |              |                    |                                   |             |
+| 80x86            | Spark, Pillow,   |                                     |                  |                 |               |              |                    |                                   |             |
+|                  | PyTorch,         |                                     |                  |                 |               |              |                    |                                   |             |
+|                  | MatplotLib,      |                                     |                  |                 |               |              |                    |                                   |             |
+|                  | Seaborn          |                                     |                  |                 |               |              |                    |                                   |             |
 
 <br />
 I wish you a bugful code because that's where learning starts!
