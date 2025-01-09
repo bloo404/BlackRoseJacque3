@@ -4,7 +4,7 @@ Computer pianist <br/>
 Data, science and people driven
 
 ### About me
-- Currently an undergraduate student @ BBU Cluj-Napoca, Computer Science department
+- Currently a MSc. student at Applied Computational Intelligence @ BBU Cluj-Napoca
 - Interested in Data (Big, Engineering and Science) and Deep Learning
 - Hobbies: physics, photography, languages, humanities, gaming, memes, movies 
 
